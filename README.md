@@ -1,9 +1,16 @@
 # Portfolio
-This is my public portfolio for Telling Stories with Data course by Professor Christopher Goranson. 
+This is my public portfolio for the Telling Stories with Data course taught by Professor Christopher Goranson!
 
 # About Me
-My name is Jeannie Choi (she/her/hers) and I am a first-year MSHCPM student at Heinz College Carnegie Mellon University! I studied Biology for my Bachelor of Science degree at Allegheny College, and after graduation, I worked as a research technician at University of Pittsburgh for three years. 
+My name is Jeannie Choi (she/her/hers) and I am a first-year MSHCPM student at Heinz College Carnegie Mellon University! I studied Biology for my Bachelor of Science degree at Allegheny College, and after graduation, I worked as a research technician at University of Pittsburgh for three years. I have always been interested in working in the health care field. My previous patient care experience has shown me what the health care system is like for patients and how it can be improved upon. 
 
-From this course, I hope to gain knowledge and insight on how to utilize data visualization to tell a story. 
+What I am interested in getting out of this course is learning how to visualize data in meaningful ways. Once I graduate, one of the things I plan to do is work in health care administration with a focus on improving patient care experience for the elderly. However, I am open to the many career opportunities such as consulting, and healthcare informatics that my Health Care Policy and Management degree can provide!
 
 # What I hope to learn
+I hope to learn how to depict data visualizations in an effective manner where the common audience can understand the data. I am excited to take what I will learn from this course and apply it in my coursework and future career. 
+
+# Fun facts about me
+I enjoy watching movies of all genres, climbing, cross-stitching, and hanging out with the people I love (pre-pandemic). 
+
+# Assignments
+This is where my future data visualizations will be located.
