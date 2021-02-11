@@ -16,3 +16,5 @@ I enjoy watching movies of all genres (especially horror), climbing, cross-stitc
 
 # Assignments
 This is where my future data visualizations will be located.
+
+[GovDebtDataViz](/govdataviz.md)
