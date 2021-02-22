@@ -18,3 +18,5 @@ I enjoy watching movies of all genres (especially horror), climbing, cross-stitc
 This is where my future data visualizations will be located.
 
 [Visualizing Government Debt](/govdataviz.md)
+
+[Visualizing Increase in COVID-19 cases](/corona.md)
