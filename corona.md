@@ -1,6 +1,6 @@
 # Tracking coronavirus case surges in states across the country this winter
 
-    [NBCNews](https://www.nbcnews.com/news/us-news/tracking-coronavirus-case-surges-states-across-country-winter-n1247103)
+  [NBCNews](https://www.nbcnews.com/news/us-news/tracking-coronavirus-case-surges-states-across-country-winter-n1247103)
 ![SharedScreenshot](https://user-images.githubusercontent.com/78512051/108648423-3399ef80-7489-11eb-862a-bca3de39a8a6.jpg)
 (The second graphic in tablular form created by Jiachuan Wu, Nigel Chiwaya and Joe Murphy)
 
