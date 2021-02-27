@@ -21,4 +21,4 @@ This is where my future data visualizations will be located.
 
 [Visualizing Increase in COVID-19 Cases](/corona.md)
 
-[Part 1 Final Project](/part1.md)
+[Part 1 Final Project](/part1finalproject.md)
