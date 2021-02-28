@@ -6,9 +6,9 @@ Based on my personal experience working in home health agencies, I am interested
 
 ## Project Structure
 
-Introduction
+* Introduction
 	* How does patient care satisfaction in home health care agencies differ according to the type of location areas (urban, suburban, and rural)?
-Body
+* Body
 	* Definitions of what urban, suburban and rural mean
 		* Give some examples of locations from the dataset that fit into these definitions
 	* Rating system on patient care satisfaction that the patient survey uses in the dataset
@@ -17,7 +17,7 @@ Body
 		* Resources
 		* Location type
 	* What this all means summary
-Conclusion
+* Conclusion
 Therefore, these data visualizations call for a need to focus more on helping home health care agencies that have low patient care satisfaction ratings with the help of the federal government.
 
 ## Initial Sketches
