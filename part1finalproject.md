@@ -37,7 +37,7 @@ I discovered the data on home health care agencies through the website data.gov.
 
 Since the site is managed by the government, the data provided must be made available to the public while at the same time, ensuring privacy and security. It is required that agencies publish a list of their data assets that are public. What the home health care data encompass is the results of a patient survey given to home health care agencies throughout the whole nation. This dataset was published by the Department of Health and Human Services on November 10, 2020, so this data is recent. 
 
-Some of the questions on the patient survey were about how well the health care team gave care, how well was the communication with that team, how the patient rate the overall care from the agency, and so much more. The dataset also provided the locations of each home health care agency in the nation. I plan to use both the location and some of the rating questions to create data visualizations on whether my guess was correct or not.
+Some of the questions on the patient survey were about how well the health care team gave care; how well was the communication with that team; how the patient rate the overall care from the agency; and so much more. The dataset also provided the locations of each home health care agency in the nation. I plan to use both the location and some of the rating questions to create data visualizations on whether my guess was correct or not.
 
 [Home Health Care Data](https://catalog.data.gov/dataset/home-health-care-hhcahps)
 
