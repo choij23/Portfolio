@@ -17,6 +17,7 @@ Based on my personal experience working in home health agencies, I am interested
 <img src="https://user-images.githubusercontent.com/78512051/109405391-30e24300-793e-11eb-8c4b-3908f4bea88e.png" width="550" height="350" >
 
 <img src="https://user-images.githubusercontent.com/78512051/109406580-317fd700-7948-11eb-8de7-7f6c9742848a.png" width="550" height="600" >
+
 ## The Data
 
 I discovered the data on home health care agencies through the website data.gov. With the help of google, I was able to search through multiple accessible sources of data and data.gov was one of them. The website data.gov is a public accessible source of many types of government data. The site is managed and hosted by the United States General Services Administration, specifically the Technology Transformation Service department. This source is actually developed publicly on Github which is the same site I am developing my final project portfolio on. 
