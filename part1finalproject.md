@@ -2,7 +2,7 @@
 
 ## Outline
 
-Based on my personal experience working in home health agencies, I am interested in whether the type of location - rural, suburban, urban - plays a role in patient satisfaction and rating of the home health agencies. I predict that since urban home health agencies have more resources and funding generally because of their location, patients are highly satisfied with the care they received. For suburban and rural home health agencies, patient satisfaction would be lower, respectively due to the lack of resources. 
+Based on my personal experience working in home health agencies, I am interested in whether the type of location - rural, suburban, urban - plays a role in patient satisfaction and rating of the home health agencies. I predict that since urban home health agencies have more resources and funding generally because of their location, patients are highly satisfied with the care they received. For suburban and rural home health agencies, patient satisfaction would be lower, respectively due to the lack of resources. There are many factors that would explain the differences in the satisfaction rating within home health care agencies. Overall, this would stress the need for focusing getting government support to eradicate those differences to provide quality health care to patients. 
 
 ## Project Structure
 
@@ -16,6 +16,7 @@ Based on my personal experience working in home health agencies, I am interested
 		* Funding
 		* Resources
 		* Location type
+		* Other
 	* What this all means summary
 * Conclusion
 	* Therefore, these data visualizations call for a need to focus more on helping home health care agencies that have low patient care satisfaction ratings with the help of the federal government.
@@ -42,4 +43,7 @@ Some of the questions on the patient survey were about how well the health care 
 
 ## Method and Medium
 
+I plan to complete my final project using Shorthand. Based on Riley's lecture on using Shorthand, I found it to be very user-friendly and useful for presenting aesthetically pleasing data visualizations. Also, Professor Goranson has presented to us previous students' final projects on Shorthand. With those examples, I feel that I will most likely use Shorthand for my final project presentation.
+
+I also plan to do some research on funding and resources information for home health care agencies throughout the United States. I intend to create data visualizations explaining why agencies in certain areas receive more or less funding. Based on that, I may create something to depict the factors explaining these differences. I believe Shorthand will be able to allow me to present all the data visualizations I have to tell my story. 
 
