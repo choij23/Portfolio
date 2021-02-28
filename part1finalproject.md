@@ -16,7 +16,7 @@ Based on my personal experience working in home health agencies, I am interested
 
 <img src="https://user-images.githubusercontent.com/78512051/109405391-30e24300-793e-11eb-8c4b-3908f4bea88e.png" width="550" height="350" >
 
-<img src="https://user-images.githubusercontent.com/78512051/109406125-86215300-7944-11eb-8366-56a7825ef409.png" width="550" height="400" >
+<img src="https://user-images.githubusercontent.com/78512051/109406125-86215300-7944-11eb-8366-56a7825ef409.png" width="550" height="500" >
 
 ## The Data
 
