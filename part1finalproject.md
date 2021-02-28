@@ -46,5 +46,5 @@ Some of the questions on the patient survey were about how well the health care 
 
 I plan to complete my final project using Shorthand. Based on Riley's lecture on using Shorthand, I found it to be very user-friendly and useful for presenting aesthetically pleasing data visualizations. Also, Professor Goranson has presented to us previous students' final projects on Shorthand. With those examples, I feel that I will most likely use Shorthand for my final project presentation.
 
-I also plan to do some research on funding and resources information for home health care agencies throughout the United States. I intend to create data visualizations explaining why agencies in certain areas receive more or less funding. Based on that, I may create something to depict the factors explaining these differences. I believe Shorthand will be able to allow me to present all the data visualizations I have to tell my story. 
+I also plan to do some research on funding and resources information for home health care agencies throughout the United States. I intend to create data visualizations explaining why agencies in certain areas receive more or less funding. Based on that, I may create something to depict the factors explaining these differences. Overall, I believe Shorthand will be able to allow me to present all the data visualizations I have to tell my story. 
 
