@@ -9,8 +9,8 @@ Project Structure
 
 
 Initial Sketches
-<img src="https://user-images.githubusercontent.com/78512051/109405339-a0a3fe00-793d-11eb-97bc-5bd9bb2f4efb.png" width="100" height="100" >
 
+<img src="https://user-images.githubusercontent.com/78512051/109405339-a0a3fe00-793d-11eb-97bc-5bd9bb2f4efb.png" width="500" height="500" >
 
 The Data
 
