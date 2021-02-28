@@ -14,7 +14,7 @@ Initial Sketches
 
 <img src="https://user-images.githubusercontent.com/78512051/109405372-01333b00-793e-11eb-8c51-b6ceec75e1fd.png" width="650" height="500" >
 
-<img src="https://user-images.githubusercontent.com/78512051/109405391-30e24300-793e-11eb-8c4b-3908f4bea88e.png" width="450" height="400" >
+<img src="https://user-images.githubusercontent.com/78512051/109405391-30e24300-793e-11eb-8c4b-3908f4bea88e.png" width="400" height="400" >
 
 
 The Data
