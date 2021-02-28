@@ -6,8 +6,8 @@ Based on my personal experience working in home health agencies, I am interested
 
 ## Project Structure
 
-Introduction
-How does patient care satisfaction in home health care agencies differ according to the type of location areas (urban, suburban, and rural)?
+* Introduction
+	* How does patient care satisfaction in home health care agencies differ according to the type of location areas (urban, suburban, and rural)?
 Body
 	• Definitions of what urban, suburban and rural mean
 		○ Give some examples of locations from the dataset that fit into these definitions
