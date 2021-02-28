@@ -10,9 +10,10 @@ Based on my personal experience working in home health agencies, I am interested
 	* How does patient care satisfaction in home health care agencies differ according to the type of location areas (urban, suburban, and rural) and why?
 * Body
 	* Definitions of what urban, suburban and rural mean
-		* Give some examples of locations from the dataset that fit into these definitions
-	* Rating system on patient care satisfaction that the patient survey uses in the dataset
-	* Factors on why there are differences
+		* Give some examples of locations from the dataset that fit into these definitions (visual map of those locations in the US)
+	* Rating system on patient care satisfaction that the patient survey uses in the dataset 
+	* What I found in my data analysis - multiple data visualizations (from Flourish or Tableau)
+	* Factors on why there are differences (visual representation of those factors)
 		* Funding
 		* Resources
 		* Location type
