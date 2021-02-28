@@ -22,7 +22,9 @@ Based on my personal experience working in home health agencies, I am interested
 
 I discovered the data on home health care agencies through the website data.gov. With the help of google, I was able to search through multiple accessible sources of data and data.gov was one of them. The website data.gov is a public accessible source of many types of government data. The site is managed and hosted by the United States General Services Administration, specifically the Technology Transformation Service department. This source is actually developed publicly on Github which is the same site I am developing my final project portfolio on. 
 
-Since the site is managed by the government, the data provided must be made available to the public while at the same time, ensuring privacy and security. It is required that agencies publish a list of their data assets that are public. 
+Since the site is managed by the government, the data provided must be made available to the public while at the same time, ensuring privacy and security. It is required that agencies publish a list of their data assets that are public. What the home health care data encompass is the results of a patient survey given to home health care agencies throughout the whole nation. This dataset was published by the Department of Health and Human Services on November 10, 2020, so this data is recent. 
+
+Some of the questions on the patient survey were about how well the health care team gave care, how well was the communication with that team, how the patient rate the overall care from the agency, and so much more. The dataset also provided the locations of each home health care agency in the nation. I plan to use both the location and some of the rating questions to create data visualizations on whether my guess was correct or not.
 
 [Home Health Care Data](https://catalog.data.gov/dataset/home-health-care-hhcahps)
 
