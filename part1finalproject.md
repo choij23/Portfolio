@@ -18,7 +18,7 @@ Based on my personal experience working in home health agencies, I am interested
 		* Location type
 	* What this all means summary
 * Conclusion
-Therefore, these data visualizations call for a need to focus more on helping home health care agencies that have low patient care satisfaction ratings with the help of the federal government.
+	* Therefore, these data visualizations call for a need to focus more on helping home health care agencies that have low patient care satisfaction ratings with the help of the federal government.
 
 ## Initial Sketches
 
