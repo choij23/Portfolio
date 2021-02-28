@@ -9,8 +9,7 @@ Project Structure
 
 
 Initial Sketches
-
-![image](https://user-images.githubusercontent.com/78512051/109405339-a0a3fe00-793d-11eb-97bc-5bd9bb2f4efb.png)
+<img src="https://user-images.githubusercontent.com/78512051/109405339-a0a3fe00-793d-11eb-97bc-5bd9bb2f4efb.png" width="100" height="100" >
 
 
 The Data
