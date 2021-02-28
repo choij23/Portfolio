@@ -2,9 +2,9 @@
 
 ## Outline
 
-Based on my working experience in home health agencies, I am interested in whether the type of location - rural, suburban, urban - plays a role in patient satisfaction and rating of the home health agencies. I predict that since urban home health agencies have more resources and funding generally because of their location, patients are highly satisfied with the care they received. For suburban and rural home health agencies, patient satisfaction would be lower, respectively due to the lack of resources. 
+Based on my personal experience working in home health agencies, I am interested in whether the type of location - rural, suburban, urban - plays a role in patient satisfaction and rating of the home health agencies. I predict that since urban home health agencies have more resources and funding generally because of their location, patients are highly satisfied with the care they received. For suburban and rural home health agencies, patient satisfaction would be lower, respectively due to the lack of resources. 
 
-Project Structure
+## Project Structure
 
 
 
@@ -15,6 +15,8 @@ Project Structure
 <img src="https://user-images.githubusercontent.com/78512051/109405372-01333b00-793e-11eb-8c51-b6ceec75e1fd.png" width="550" height="400" >
 
 <img src="https://user-images.githubusercontent.com/78512051/109405391-30e24300-793e-11eb-8c4b-3908f4bea88e.png" width="550" height="350" >
+
+<img src="https://user-images.githubusercontent.com/78512051/109406125-86215300-7944-11eb-8366-56a7825ef409.png" width="550" height="400" >
 
 ## The Data
 
