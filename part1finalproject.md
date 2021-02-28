@@ -18,7 +18,9 @@ Initial Sketches
 
 The Data
 
-I found my home health care data through the website data.gov. 
+I discovered the data on home health care agencies through the website data.gov. With the help of google, I was able to search through multiple accessible sources of data and data.gov was one of them. The website data.gov is a public accessible source of many types of government data. The site is managed and hosted by the United States General Services Administration, specifically the Technology Transformation Service department. This source is actually developed publicly on Github which is the same site I am developing my final project portfolio on. 
+
+Since the site is managed by the government, the data provided must be made available to the public while at the same time, ensuring privacy and security. It is required that agencies publish a list of their data assets that are public. ![image](https://user-images.githubusercontent.com/78512051/109405894-bbc53c80-7942-11eb-9432-39a4465d9051.png)
 
 [Home Health Care Data](https://catalog.data.gov/dataset/home-health-care-hhcahps)
 
