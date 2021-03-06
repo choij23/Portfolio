@@ -10,6 +10,7 @@ The original graphic is very useful and reliable, and I thought it was a complet
 
 These are the wireframes that I have done for this assignment, and that I have asked 3 people for their feedback on.
 <img scr="https://user-images.githubusercontent.com/78512051/110216786-097c0080-7e7f-11eb-881b-f48abecb1e4c.jpg" >
+![156161074_777295266529830_1870997353797300322_n](https://user-images.githubusercontent.com/78512051/110216786-097c0080-7e7f-11eb-881b-f48abecb1e4c.jpg)
 
 Due to feedback, I chose the 1-week change in COVID-19 cases in the states and territories because it clearly depicts the increases and decreases in cases for each state/territories. I knew that I wanted to use a column graph to depict NBC's COVID-19 data, so originally, I started making my data visualization with Flourish. I was able to come up with an almost finished product, but there were some difficulties in reading the x-axis labels of the graphic. For one, it was a vertical column graph, so the labels for the states/territories were vertically arranged. In one of my sketches, I drew a graphic of horizontal columns to make it easier for the readers to read the states and territories. At this point, I realize that there are limitations with the platform in getting my final data visualization because Flourish did not have an option to create horizontal columns. It is possible that there was a method, but I was not aware of it.
 
