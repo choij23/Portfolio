@@ -24,8 +24,6 @@ Interview Script:
 
 I will ask them what their job is and what their job responsibilities entail to gain a better idea of their background. I will also provide a table chart where they can write what they like about the website; what they don't like about the website; how they would like to see website be improved
 
-What You Liked	What You Don't Liked	What could be improved?
-
 | What You Like  | What You Don't Like | What could be improved? |
 | -------------  | ------------------- | ----------------------- |
 |                |                     |                         |
@@ -38,13 +36,8 @@ Wrap-Up
 
 I will thank them for their time and participation. I will also end with asking them if they have any questions for me regarding the interview and what they went through.
 
-| What You Like  | What You Don't Like | What could be improved? |
-| -------------  | ------------------- | ----------------------- |
-|    I liked the map of the US depicting patient ratings. I liked that you provided funding visualizations. The call to action part was excellent, especially with the search bar!
-             |                     |                         |
+Findings
 
-a. the target audience you hope to reach with your story
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+Based on the interview's answers in the table, it seemed what they liked about the storyboard and data visualizations is the consistent color scheme and the clean look of the storyboard. It was obvious that the storyboard flowed well for the interviewees because they mention that they could understand the story that I intended for them. One was especially appreciative of my call to action - "The call to action part was excellent, especially with the search bar!" As for what they did not like about the storyboard was the lack of content and titles in my slides. There was one data visualization on patient care satisfaction rating where one mentioned about having "some concerns about the 100% rating for satisfaction." The pie chart was also confusing to one interviewee because the content was vague for them. Because I have received many feedback, I also received tips on what could be improved in the storyboard. There were tips such as the wording in my title slide and combining the last two slides. 
+
+For the answers to the three questions I had for them, it seems that their first impressions of the storyboard and data visualizations was that it was cleanly well-presented and that the visualizations helped in telling the story. Based on the content of their responses, I was able to tell that they were correct in knowing the purpose of my story and what it was about. Additionally, one interviewee wanted more information on "why rural home health centers are important in the first place (i.e. population of elderly is higher in rural areas vs urban areas." This remark was incredibly helpful in thinking the kind of information my audience would want to know more about because after all, the audience cannot gauge the story without enough background information. 
