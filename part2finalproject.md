@@ -26,12 +26,11 @@ What You Liked	What You Don't Liked	What could be improved?
 
 | What You Like  | What You Don't Like | What could be improved? |
 | -------------  | ------------------- | ----------------------- |
-| Content Cell   | Content Cell        |                         |
-| Content Cell   | Content Cell        |                         |
+| Content Cell   | Content Cell        | Content Cell            |
 
-	1. First off, could you tell me what is your first impression on the website and the data visualizations?
-	2. What do you think the story is about? Essentially, what is the purpose of the website?
-	3. Do you have any questions about the story, data visualizations or even the website itself? 
+1. First off, could you tell me what is your first impression on the website and the data visualizations?
+2. What do you think the story is about? Essentially, what is the purpose of the website?
+3. Do you have any questions about the story, data visualizations, or even the website itself?
 
 * Wrap-Up
 I will thank them for their time and participation. I will also end with asking them if they have any questions for me regarding the interview and what they went through.
