@@ -7,7 +7,7 @@ Some of the critique I have received on the first part of my final project were 
 * possibly focus on a specific state such as Pennsylvania because I was informed that there are plenty of data on PA's home health care agencies provided by the Budget for Human Health Services
 
 ## Wireframes/Sketches
-updated wireframes
+![Wireframe](https://user-images.githubusercontent.com/78512051/110722809-f2bc0d80-81e0-11eb-8c48-975d908c22d1.png)
 
 ## User Research 
 The target audience I hope to reach with my story is the programs centered on providing resources to areas that are lacking resources and funding needed to provide quality care to the elderly population. Hence, my specific call to action to my audience would be to push them to contact their state department of health to enact change within the home health care industry by providing more resources and funding. 
@@ -28,7 +28,7 @@ What You Liked	What You Don't Liked	What could be improved?
 
 | What You Like  | What You Don't Like | What could be improved? |
 | -------------  | ------------------- | ----------------------- |
-| Content Cell   | Content Cell        | Content Cell            |
+|                |                     |                         |
 
 1. First off, could you tell me what is your first impression on the website and the data visualizations?
 2. What do you think the story is about? Essentially, what is the purpose of the website?
