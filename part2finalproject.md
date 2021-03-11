@@ -7,7 +7,7 @@ Some of the critique I have received on the first part of my final project were 
 * possibly focus on a specific state such as Pennsylvania because I was informed that there are plenty of data on PA's home health care agencies provided by the Budget for Human Health Services
 
 ## Wireframes/Sketches
-![Wireframe](https://user-images.githubusercontent.com/78512051/110722809-f2bc0d80-81e0-11eb-8c48-975d908c22d1.png)
+![Wireframe](https://user-images.githubusercontent.com/78512051/110727606-98737a80-81e9-11eb-8c6e-558514fe1614.png)
 
 ## User Research & Interview
 The target audience I hope to reach with my story is the programs centered on providing resources to areas that are lacking resources and funding needed to provide quality care to the elderly population. Hence, my specific call to action to my audience would be to push them to contact their state department of health to enact change within the home health care industry by providing more resources and funding. 
