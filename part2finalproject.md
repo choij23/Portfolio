@@ -38,6 +38,11 @@ Wrap-Up
 
 I will thank them for their time and participation. I will also end with asking them if they have any questions for me regarding the interview and what they went through.
 
+| What You Like  | What You Don't Like | What could be improved? |
+| -------------  | ------------------- | ----------------------- |
+|    I liked the map of the US depicting patient ratings. I liked that you provided funding visualizations. The call to action part was excellent, especially with the search bar!
+             |                     |                         |
+
 a. the target audience you hope to reach with your story
 b. your approach to identifying representative individuals to interview; 
 c. your interview script; 
