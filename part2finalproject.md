@@ -26,7 +26,7 @@ I will ask them what their job is and what their job responsibilities entail to 
 
 | What You Like  | What You Don't Like | What could be improved? |
 | -------------  | ------------------- | ----------------------- |
-| _____________  | ___________________ | _______________________ |
+| ______________ | ____________________| ________________________|
 
 1. First off, could you tell me what is your first impression on the website and the data visualizations?
 2. What do you think the story is about? Essentially, what is the purpose of the website?
