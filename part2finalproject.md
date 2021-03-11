@@ -9,12 +9,13 @@ Some of the critique I have received on the first part of my final project were 
 ## Wireframes/Sketches
 updated wireframes
 
-## User Research Plan
+## User Research 
 The target audience I hope to reach with my story is the programs centered on providing resources to areas that are lacking resources and funding needed to provide quality care to the elderly population. Hence, my specific call to action to my audience would be to push them to contact their state department of health to enact change within the home health care industry by providing more resources and funding. 
 
 My approach to identifying representative individuals to interview includes a wide demographic of individuals who are unfamiliar with the topic of home health care agencies and how patient care satisfaction differs based on population location type. 
 
-Listed below is my interview script that I have used to gained findings about what people thought of my wireframes. 
+## Interview 
+Listed below is my interview script that I have used to gained critical findings about what people thought of my wireframes. 
 * Introduction:
 I will introduce myself and why I am here today with them. I will briefly explain what my assignment is for which is the course, "Telling Stories with Data." This will take up less than 10 minutes of their time, and I will stress to them that there is no wrong or right answers to the questions that I will ask them. 
 
@@ -22,7 +23,11 @@ I will introduce myself and why I am here today with them. I will briefly explai
 I will ask them what their job is and what their job responsibilities entail to gain a better idea of their background. I will also provide a table chart where they can write what they like about the website; what they don't like about the website; how they would like to see website be improved
 
 What You Liked	What You Don't Liked	What could be improved?
-		
+
+| What You Like  | What You Don't Like | What could be improved? |
+| -------------  | ------------------- | ----------------------- |
+| Content Cell   | Content Cell        |                         |
+| Content Cell   | Content Cell        |                         |
 
 	1. First off, could you tell me what is your first impression on the website and the data visualizations?
 	2. What do you think the story is about? Essentially, what is the purpose of the website?
