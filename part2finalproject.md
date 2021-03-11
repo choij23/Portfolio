@@ -16,11 +16,12 @@ My approach to identifying representative individuals to interview includes a wi
 
 ## Interview 
 Listed below is my interview script that I have used to gained critical findings about what people thought of my wireframes. 
-Introduction:
+
+Introduction
 
 I will introduce myself and why I am here today with them. I will briefly explain what my assignment is for which is the course, "Telling Stories with Data." This will take up less than 10 minutes of their time, and I will stress to them that there is no wrong or right answers to the questions that I will ask them. 
 
-Interview Script:
+Interview Script
 
 I will ask them what their job is and what their job responsibilities entail to gain a better idea of their background. I will also provide a table chart where they can write what they like about the website; what they don't like about the website; how they would like to see website be improved
 
