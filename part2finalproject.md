@@ -45,3 +45,5 @@ For the answers to the three questions I had for them, it seems that their first
 * Future Changes
 
 The changes I plan on implementing to my visualizations next week will address the more of the issues found from my user research as well as the critique I received in today's lecture (Wednesday, March 10, 2021). Some of the critique I received during class was that the number of people for the rural, suburban and urban areas was unclear. Someone wondered whether the number of people was according to how many feet there were - basically the population density. This is something that I will have to look into as well as making sure that my definitions are clear and free of confusion. I will also include citations in the final project to ensure that sources are accordingly accredited. I also plan to use Tableau and possibly Flourish to create detailed data visualizations. I will also start creating a Shorthand page for the final presentation and project. Overall, I will be starting on completing the third part of the final project.
+
+[Homepage](README.md)
