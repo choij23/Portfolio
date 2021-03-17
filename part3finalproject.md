@@ -12,7 +12,7 @@ Despite restricting my topic to one state, my audience still remains the same wh
 
 Additionally, what I discovered throughout the process of working on part 3 was that there were not much survey data results for rural home health care agencies when compared to that for urban rural home health care agencies. In fact, most of the survey results for the rural home health care agencies were not available due to not having enough resources to do the survey in the first place. Therefore, my call to action is exactly why we need to advocate getting these rural home health care agencies more resources and funding in the first place: to be able to give quality patient care. 
 
-[Shorthand](https://carnegiemellon.shorthandstories.com/patient_satisfaction_HHC/index.html)
+[Shorthand Final Project](https://carnegiemellon.shorthandstories.com/patient_satisfaction_HHC/index.html)
 
 ## Sources
 
