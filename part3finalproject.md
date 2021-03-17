@@ -24,3 +24,5 @@ Additionally, what I discovered throughout the process of working on part 3 was 
 6. Skillman, S. M., Patterson, D. G., Coulthard, C., & Mroz, T. M. (2016, February). _Access to Rural Home Health Services: Views from the Field. WWAMI Rural Health Research Center. https://depts.washington.edu/fammed/rhrc/wp-content/uploads/sites/4/2016/02/RHRC_FR152_Skillman.pdf
 7. Rural Health Information Hub. (2021). _Am I Rural? Tool_. https://www.ruralhealthinfo.org/am-i-rural
 8. Rural Health Information Hub. (2020, May 14). _Rural Home Health Services Introduction. https://www.ruralhealthinfo.org/topics/home-health
+
+[Homepage](README.md)
