@@ -16,11 +16,11 @@ Additionally, what I discovered throughout the process of working on part 3 was 
 
 ## Sources
 
-1. Census.gov. (2020, December 7). Urban and Rural. United States Census Bureau. https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html
-2. CMS.gov. (2016, January 28). Home Health Care Consumer Assessment of Healthcare Provider... https://www.cms.gov/newsroom/fact-sheets/home-health-care-consumer-assessment-healthcare-providers-and-systems-hhcahps-survey-star-ratings
-3. Complia Health. (2017, July 17). Research Saying Rural Patients Not Accessing Home Care. http://www.compliahealth.com/blog/rural-patients-home-health-service
+1. Census.gov. (2020, December 7). _Urban and Rural. United States Census Bureau. https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html
+2. CMS.gov. (2016, January 28) _Home Health Care Consumer Assessment of Healthcare Provider... https://www.cms.gov/newsroom/fact-sheets/home-health-care-consumer-assessment-healthcare-providers-and-systems-hhcahps-survey-star-ratings
+3. Complia Health. (2017, July 17). _Research Saying Rural Patients Not Accessing Home Care. http://www.compliahealth.com/blog/rural-patients-home-health-service
 4. Data.gov
 5. Pennsylvania by Leonardo Schneider from the Noun Project
-6. Skillman, S. M., Patterson, D. G., Coulthard, C., & Mroz, T. M. (2016, February). Access to Rural Home Health Services: Views from the Field. WWAMI Rural Health Research Center. https://depts.washington.edu/fammed/rhrc/wp-content/uploads/sites/4/2016/02/RHRC_FR152_Skillman.pdf
-7. Rural Health Information Hub. (2021). Am I Rural? Tool. https://www.ruralhealthinfo.org/am-i-rural
-8. Rural Health Information Hub. (2020, May 14). Rural Home Health Services Introduction. https://www.ruralhealthinfo.org/topics/home-health
+6. Skillman, S. M., Patterson, D. G., Coulthard, C., & Mroz, T. M. (2016, February). _Access to Rural Home Health Services: Views from the Field. WWAMI Rural Health Research Center. https://depts.washington.edu/fammed/rhrc/wp-content/uploads/sites/4/2016/02/RHRC_FR152_Skillman.pdf
+7. Rural Health Information Hub. (2021). _Am I Rural? Tool_. https://www.ruralhealthinfo.org/am-i-rural
+8. Rural Health Information Hub. (2020, May 14). _Rural Home Health Services Introduction. https://www.ruralhealthinfo.org/topics/home-health
