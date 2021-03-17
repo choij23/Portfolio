@@ -40,7 +40,7 @@ Since the site is managed by the government, the data provided must be made avai
 
 Some of the questions on the patient survey were about how well the health care team gave care; how well was the communication with that team; how the patient rate the overall care from the agency; and so much more. The dataset also provided the locations of each home health care agency in the nation. I plan to use both the location and some of the rating questions to analyze the data to see whether my intution was correct or not. Ultimately, whatever the results are, I will be representing them as data visualizations. 
 
-[Home Health Care Data](https://catalog.data.gov/dataset/home-health-care-hhcahps)
+[Home Health Care Data](https://www.data.gov/)
 
 ## Method and Medium
 
