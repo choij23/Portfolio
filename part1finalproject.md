@@ -48,3 +48,4 @@ I plan to complete my final project using Shorthand. Based on Riley's lecture on
 
 I also plan to do some research on funding and resources information for home health care agencies throughout the United States. I intend to create data visualizations explaining why agencies in certain areas receive more or less funding. Based on that, I may create something to depict the factors explaining these differences. Overall, I believe Shorthand will be able to allow me to present all the data visualizations I have to tell my story. 
 
+[Homepage](README.md)
