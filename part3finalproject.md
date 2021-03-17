@@ -1,6 +1,6 @@
-## Part 3 Final Project
+# Part 3 Final Project
 
-# Changes Since Part 2
+## Changes Since Part 2
 
 Some of the major changes that I have made since Part 2 was narrowing the scope of my topic to the state of Pennsylvania. My dataset from data.gov contained patient survey data from a multitude of home health care agencies across the whole nation, however, there was no corresponding location type data with this dataset. In my research, I found a website called Rural Information Hub that had an incredibly useful tool which allowed me to confirm whether the city is rural or not. However, this tool was very limited in that it can only search one location at a time. This was a dilemma because the nationwide dataset consisted of about 11,000+ data. Since I lack programming skills to create a program that would search across multiple data and assign them the location type, I had to focus the dataset to one state.
 
@@ -11,7 +11,7 @@ I also took out the definition of suburban because there was no clear, set defin
 Despite restricting my topic to one state, my audience still remains the same where I am informing my audience of the contrast of patient care satisfaction provided by home health care agencies in different location types. As my call to action, I implored my audience to search for their respective state's health department to advocate for more funding and resources towards these rural home health care agencies. 
 
 
-# Sources
+## Sources
 
 1. Census.gov. (2020, December 7). Urban and Rural. United States Census Bureau. https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html
 2. CMS.gov. (2016, January 28). Home Health Care Consumer Assessment of Healthcare Provider... https://www.cms.gov/newsroom/fact-sheets/home-health-care-consumer-assessment-healthcare-providers-and-systems-hhcahps-survey-star-ratings
