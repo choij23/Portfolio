@@ -26,3 +26,5 @@ This is where my future data visualizations will be located.
 [Part 2 Final Project](/part2finalproject.md)
 
 [Part 3 Final Project](/part3finalproject.md)
+
+[Shorthand Final Project](https://carnegiemellon.shorthandstories.com/patient_satisfaction_HHC/index.html)
