@@ -16,3 +16,5 @@ Due to feedback, I chose the 1-week change in COVID-19 cases in the states and t
 So, I turned to Tableau to create a horizontal column graphic. With this type of data visualization, I was able to display the states and territories in horizontal view rather than vertical view. I also higlighted the column for Pennsylvania red to see how our state fares in the cases when comparing to other states. I believe this data visualization resembles most closely to my vision of the final data visualization. 
 
 ![COVID](https://user-images.githubusercontent.com/78512051/108648654-cdfa3300-7489-11eb-8b62-d5b3c8b35a71.png)
+
+[Homepage](README.md)
