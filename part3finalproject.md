@@ -10,6 +10,7 @@ I also took out the definition of suburban because there was no clear, set defin
 
 Despite restricting my topic to one state, my audience still remains the same where I am informing my audience of the contrast of patient care satisfaction provided by home health care agencies in different location types. As my call to action, I implored my audience to search for their respective state's health department to advocate for more funding and resources towards these rural home health care agencies. 
 
+Additionally, what I discovered throughout the process of working on part 3 was that there were not much survey data results for rural home health care agencies when compared to that for urban rural home health care agencies. In fact, most of the survey results for the rural home health care agencies were not available due to not having enough resources to do the survey in the first place. Therefore, my call to action is exactly why we need to advocate getting these rural home health care agencies more resources and funding in the first place: to be able to give quality patient care. 
 
 ## Sources
 
